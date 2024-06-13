@@ -27,7 +27,8 @@ body {
 }
 
 .logo img {
-    width: 350px;
+    width: 400px;
+    padding-bottom:10px;
 }
 
 .content {
@@ -46,7 +47,7 @@ h1 {
 }
 
 p {
-	padding-bottom:50px;
+	padding-bottom:70px;
    margin: 10px 0 20px;
     font-size: 18px;
     font-weight: 600;
